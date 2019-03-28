@@ -9,3 +9,5 @@ Distributed Prioritized Experience Replay			2018.03	ICLR 2018
 Exploration by Distributional Reinforcement Learning		2018.07	IJCAI 2018  
 Return Decomposition for Delayed Rewards			2019.01	  
 Statistics and Samples in Distributional Reinforcement Learning	2019.02	  
+Nonlinear Distributional Gradient TD learning				2018.01  
+Distributed Distributional Deterministic Policy Gradients				2018.04	ICLR 2018
